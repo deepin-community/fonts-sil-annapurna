@@ -1,0 +1,3 @@
+*.ttf        usr/share/fonts/truetype/annapurna
+web/*.woff   usr/share/fonts-sil-annapurna/woff
+debian/bug/* usr/share/bug/fonts-sil-annapurna
