@@ -1,5 +1,75 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-sil-annapurna (1.204-2) unstable; urgency=medium
 
-  * Initial release
+  * Source package upload only.
+  * Update Standards to 4.4.0 (no changes)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Bobby de Vos <bobby_devos@sil.org>  Tue, 23 Jul 2019 17:11:35 -0600
+
+fonts-sil-annapurna (1.204-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update packaging.
+  * Update Standards to 4.3.0 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Wed, 20 Mar 2019 11:28:34 -0600
+
+fonts-sil-annapurna (1.203-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Update packaging.
+  * Update Standards to 4.1.2 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Mon, 11 Dec 2017 21:22:58 -0700
+
+fonts-sil-annapurna (1.202-4) unstable; urgency=medium
+
+  * Include WOFF files again, although in a new location.
+  * Update packaging.
+  * Update Standards to 4.1.0 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Mon, 02 Oct 2017 17:07:31 -0600
+
+fonts-sil-annapurna (1.202-3) unstable; urgency=medium
+
+  * Team upload.
+  * Upload to Debian/unstable.
+
+ -- Fabian Greffrath <fabian@debian.org>  Sun, 02 Jul 2017 16:47:32 +0200
+
+fonts-sil-annapurna (1.202-2) unstable; urgency=medium
+
+  * Upstream desires WOFF to be in documentation folder
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Wed, 24 May 2017 17:06:27 -0600
+
+fonts-sil-annapurna (1.202-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update Standards to 3.9.8 (checked)
+
+ -- Bobby de Vos <bobby_devos@sil.org>  Thu, 18 May 2017 16:57:55 -0600
+
+fonts-sil-annapurna (1.200-2) unstable; urgency=medium
+
+  * Breaks/Replaces fonts-sil-annapurnasil for packages.sil.org
+
+ -- Daniel Glassey <wdg@debian.org>  Tue, 20 Oct 2015 11:07:02 +0100
+
+fonts-sil-annapurna (1.200-1) unstable; urgency=medium
+
+  * Initial release in Debian, Closes: #635902
+
+ -- Daniel Glassey <wdg@debian.org>  Mon, 19 Oct 2015 20:12:17 +0100
+
+fonts-sil-annapurnasil (1.100-web-1ubuntu1+precise) precise; urgency=low
+
+  * New upstream release
+  * Adjusted DEP5 syntax
+
+ -- Nicolas Spalinger <nicolas.spalinger@sil.org>  Wed, 07 Nov 2012 10:11:50 +0000
+
+fonts-sil-annapurnasil (1.001-web-1) unstable; urgency=low
+
+  * Initial release (Closes: #635902)
+
+ -- Nicolas Spalinger <nicolas.spalinger@sil.org>  Thu, 21 Jul 2011 01:09:20 +0200
